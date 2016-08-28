@@ -6,9 +6,10 @@ u thread is for timer,roads and checkpoint.
 <hr>
 
 to run the game write below command in cmd
-&gt javac NewApplet.java 
-&gt appletviewer NewApplet.java
-
+<ul>
+<li>javac NewApplet.java </li>
+<li>appletviewer NewApplet.java</li>
+<ul>
 <hr>
 <ol>
 <li>Right and Left arrow keys are for moving red car. </li>
