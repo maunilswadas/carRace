@@ -6,8 +6,8 @@ u thread is for timer,roads and checkpoint.
 <hr>
 
 to run the game write below command in cmd
->javac NewApplet.java 
->appletviewer NewApplet.java
+&gt javac NewApplet.java 
+&gt appletviewer NewApplet.java
 
 <hr>
 <ol>
