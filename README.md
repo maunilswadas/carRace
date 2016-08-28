@@ -9,7 +9,7 @@ to run the game write below command in cmd
 <ul>
 <li>javac NewApplet.java </li>
 <li>appletviewer NewApplet.java</li>
-<ul>
+</ul>
 <hr>
 <ol>
 <li>Right and Left arrow keys are for moving red car. </li>
